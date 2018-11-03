@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-markdown",
+  "version": "1.0.0",
+  "description": "@stcgoal A NodeJS Markdown editing Environment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/nodejs-markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "nodejs",
+    "gix"
+  ],
+  "author": "J.Guillaume Isabelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/nodejs-markdown/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/nodejs-markdown#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "redis": "^2.8.0",
+    "share": "^0.7.40"
+  }
+}
