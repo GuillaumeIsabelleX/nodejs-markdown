@@ -1,6 +1,8 @@
 # nodejs-markdown
 
-@stcgoal A NodeJS Markdown editing Environment
+@stcgoal A NodeJS Markdown editing Environment  
+@v A Language to create visual document formatting that can be readable and easy to learn
+
 
 ## Preview of Test
 

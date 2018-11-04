@@ -25,6 +25,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "nodemon": "^1.18.5",
     "redis": "^2.8.0",
     "share": "^0.7.40"
   }
